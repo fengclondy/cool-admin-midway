@@ -28,7 +28,7 @@ export default {
     },
   },
   cool: {
-    eps: true,
+    
     initDB: false,
   } as CoolConfig,
 } as MidwayConfig;
